@@ -1,4 +1,4 @@
-#How To Run:
+# How To Run:
 >K-Means: 	python3 k_means.py
 
 >DBScan: 	python3 db_scan.py
